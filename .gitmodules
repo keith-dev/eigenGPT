@@ -3,4 +3,4 @@
 	url = https://huggingface.co/gpt2
 [submodule "gpt2-tokenizer"]
 	path = gpt2-tokenizer
-	url = https://github.com/davidar/gpt2-tokenizer.git
+	url = git@github.com:keith-dev/huggingface-tokenizer-in-cxx.git
